@@ -1,0 +1,1 @@
+These PNG files are selected figures extracted from the group's final course report. They are included as visual references; the MATLAB code generates fresh plots under `results/generated/` when executed.
