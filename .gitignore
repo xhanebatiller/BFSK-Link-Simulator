@@ -1,0 +1,14 @@
+# MATLAB autosave and backup files
+*.asv
+*.m~
+*.autosave
+
+# MATLAB generated data and temporary outputs
+*.mat
+*.slxc
+*.mex*
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
